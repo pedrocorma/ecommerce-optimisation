@@ -38,23 +38,28 @@ The client is an ecommerce in the cosmetics sector that seeks to break the trend
 A plan of 10 specific initiatives organized into 5 major business levers has been derived from the exploratory data analysis to break the flat evolution of the company’s KPIs over the last few months and achieve an overall increase in ecommerce revenues:
 
 **Actions to increase the number of views:**
+
 1. Revise paid campaigns (generation and retargeting) to concentrate investment in time slots between 9am and 1pm and between 6pm and 8pm.
 2. Concentrate investment in Christmas and post-Christmas campaigns in the week of black friday.
 3. Increase investment to the maximum CPA based on the LTV identified.
 
 **Actions to increase conversion rates:**
+
 4. Preconfigure the home page with the products identified in the most viewed and most sold analysis.
 5. Work on products with high cart abandonment rate.
 6. Work on products that are highly viewed but rarely purchased and on products that are highly purchased but rarely viewed.
 
 **Actions to increase cross-selling:**
+
 7. The median purchase includes 5 products. Increase this ratio through real-time recommendation with the new recommender.
 
 **Actions to increase purchase frequency:**
+
 8. 90% of customers make only one purchase. Create a regular newsletter with the new recommendation system to increase visit frequency.
 9. Conduct promotional campaigns on the top segments of the RFM segmentation.
 
 **Customer loyalty actions:**
+
 10. Create a loyalty program segmented by the new developed RFM segmentation.
 
 ## Project structure <a name="project-structure"></a>
