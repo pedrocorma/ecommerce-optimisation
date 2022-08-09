@@ -1,0 +1,2 @@
+# ecommerce-optimisation
+Portfolio project: Discovery project for an ecommerce in the cosmetics sector. Developed a conversion rate optimisation (CRO) plan of 10 specific initiatives organized into 5 major business levers (number of views, conversion rate, cross-selling, purchase frequency and customer loyalty) to break the flat evolution of the company’s KPIs over the last few months and achieve an overall increase in ecommerce revenues.
