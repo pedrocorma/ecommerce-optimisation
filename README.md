@@ -29,7 +29,7 @@ The client is an ecommerce in the cosmetics sector that seeks to break the trend
   - `01_Diseño del proyecto.ipynb`: Notebook compiling the initial design of the project.
   - `02_Creacion del Datamart Analitico.ipynb`: Notebook creating analitic datamart (loading and unifying data, applying data quality processes, ...).
   - `03_Analisis e Insights.ipynb`: Notebook used for the execution of the exploratory data analysis and which collects the business insights found as well as the recommended actionable initiatives.
-- 📈 Business_Case_.xlsx: Excel Business Case file.
+- 📈 Business_Case_.xlsx: Business Case excel file.
 
 ## Instructions  <a name="instructions"></a>
 - Unzip ecommerce.rar and tablon_analitico.rar under 'Datos' folder.
