@@ -13,7 +13,7 @@
 ## Introduction <a name="introduction"></a>
 The client is an ecommerce in the cosmetics sector that seeks to break the trend of null evolution obtained during the last months.
 
-- [See a technical explanation of project here.](https://pedrocorma.github.io/project/3ecommerce/)
+- [See a technical explanation of the project here.](https://pedrocorma.github.io/project/3ecommerce/)
 
 ## Objectives <a name="objectives"></a>
 1. Analysing the ecommerce transactional data to find potential conversion rate optimisation (CRO) actions that increase visits, conversions and the average ticket, and therefore increase overall ecommerce revenue.
