@@ -1,6 +1,6 @@
 # Ecommerce optimisation
 
-![Esta es una imagen](/Datos/Imagenes/featured.jpg|300)
+![Esta es una imagen](/Datos/Imagenes/featured.jpg|width=400)
 
 - [Introduction](#introduction)
 - [Objectives](#objectives)
